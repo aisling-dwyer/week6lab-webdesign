@@ -1,0 +1,28 @@
+
+.boldfont{
+	font-weight:bold;
+}
+
+.container{
+	background-color:pink;
+}
+
+
+.row{
+	margin-top:100px;
+	min-height:100px;
+	justify-content:space-between;
+}
+
+.smallerrow{
+	text-decoration:underline;
+	margin-top:50px;
+	min-height:50px;
+
+}
+
+.introblurb{
+	margin-top: 75px;
+	font-style: italic;
+}
+
